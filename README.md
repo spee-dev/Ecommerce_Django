@@ -1,11 +1,4 @@
-# Amazon Clone Project Using Django and React
 
-Welcome to the Amazon Clone Project! This project is based on a tutorial series by the SuperCoders YouTube channel. The series walks through creating a fully functional Amazon clone using Django and React, complete with an inventory management system.
-
-## Support 
-- You love our open source project? We love you too! Your sponsorship helps us dedicate more time to development, improvements, and community support.
-
-- Show your appreciation for our open source project. Your sponsorship directly impacts our ability to innovate and grow.
 
 ## Complete Project Flow 
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/screenshots/Ecommerce.gif" alt="Amazon Clone Ecommerce Flow" style="width: 100%;"/>
@@ -20,24 +13,6 @@ Welcome to the Amazon Clone Project! This project is based on a tutorial series 
 
 ## ER Diagram
 <img src="https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/ER_Diagram.png" alt="Amazon Clone Project ER Diagram" style="width: 100%;"/>
-
-## API Documentation 
-
-- **API Documentaion for Post Man**: [API Documentaion](https://documenter.getpostman.com/view/5800143/2sA3QmEawp)
-
-## CI CD Pipeline AWS Deployment Step using Docker and Github Action for [React+Django]
-
-- **Complete Steps**: [Complete Steps](https://raw.githubusercontent.com/hackstarsj/AmazonCloneEcommerceProjectUsingDjangoReact/master/CI_CD_Deployment_Step_Using_Docker_AWS.txt)
-
--- **Video Steps** : [Deployment in AWS](https://youtu.be/QHCsaG9dLI4)
-
-
-## YouTube Tutorial Series
-
-This project follows the tutorial series available on the SuperCoders YouTube channel. You can watch the entire series using the following links:
-
-- **SuperCoders Channel**: [SuperCoders YouTube Channel](https://www.youtube.com/@SuperCoders)
-- **Project Playlist**: [Amazon Clone Project Playlist](https://www.youtube.com/watch?v=VOgfT0mSBvc&list=PLb-NlfexLTk-bLuLZNHmpfDdn7XlkWKlw&pp=iAQB)
 
 ## Project Overview
 
@@ -116,19 +91,6 @@ npm start
 
 Once both the backend and frontend servers are running, you can access the application at `http://localhost:3000` for the frontend and `http://localhost:8000` for the backend.
 
-## Contributing
-
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgements
-
-- Special thanks to the SuperCoders YouTube channel for providing the tutorial series that made this project possible.
-
----
 
 Enjoy building your Amazon clone! If you have any questions or run into issues, feel free to open an issue on this repository or reach out through the comments on the YouTube tutorial videos.
 
